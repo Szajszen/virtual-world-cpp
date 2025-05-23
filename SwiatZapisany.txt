@@ -1,0 +1,26 @@
+10 10 1 0
+Lis 0 2 7 3 1 5
+Lis 0 2 7 3 2 3
+Lis 0 2 7 3 1 2
+Wilk 0 2 5 9 3 0
+Wilk 0 2 5 9 8 4
+Wilk 0 2 5 9 8 9
+Czlowiek 0 2 4 5 1 7
+Owca 0 1 4 4 2 4
+Owca 0 1 4 4 5 5
+Owca 0 1 4 4 1 1
+Owca 0 1 4 4 5 2
+Owca 0 1 4 4 7 6
+Antylopa 0 1 4 4 1 8
+Antylopa 0 1 4 4 9 2
+Zolw 0 1 1 2 1 6
+Zolw 0 1 1 2 8 5
+Trawa 0 1 0 0 7 9
+Trawa 0 1 0 0 5 4
+Trawa 0 1 0 0 3 1
+Mlecz 0 1 0 0 3 4
+Mlecz 0 1 0 0 3 8
+Mlecz 0 1 0 0 7 4
+Guarana 0 1 0 0 2 7
+BarszczSosnowskiego 0 1 0 10 9 8
+WilczeJagody 0 1 0 99 6 5
